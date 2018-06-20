@@ -1,0 +1,24 @@
+{
+  "name": "airdrop-tool",
+  "version": "1.0.0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node balance_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atidium/airdrop-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atidium/Airdrop-Tool/issues"
+  },
+  "homepage": "https://github.com/Atidium/Airdrop-Tool/blob/master/README.md": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
